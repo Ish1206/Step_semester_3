@@ -12,3 +12,22 @@
 
 **Issues Faced:**
 - Faced some initial difficulties with GitHub, IntelliJ branch setup, and package organization.
+
+
+
+
+
+
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Week 2 String Operations & Performance practice problems.
+- Completed Week 2 assignment problems.
+- Practiced String built-in methods, string manipulation, ASCII concepts, StringBuilder, StringBuffer and string performance concepts.
+- Organized the programs in the required package structure.
+
+**Next Session Plan:**
+- Continue with the next STEP Class session and complete the assigned programming problems.
+
+**Issues Faced:**
+- None
