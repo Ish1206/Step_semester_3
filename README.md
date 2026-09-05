@@ -47,3 +47,26 @@
 
 ### Issues Faced
 - No major issues faced.
+
+
+
+## Date: 05-09-2026
+
+**Today's Work**
+
+Completed Week 4 - Programming Construct & OOP Fundamental.
+
+- Practiced constructors and constructor overloading.
+- Used this() constructor chaining and this keyword.
+- Implemented final variables, methods and classes.
+- Practiced static variables and static blocks.
+- Used instanceof for object type checking.
+- Completed 5 practice problems and 5 assignment problems.
+
+**Next Session Plan**
+
+Start Week 5 programming concepts and complete the given practice and assignment problems.
+
+**Issues Faced**
+
+No major issues faced.
