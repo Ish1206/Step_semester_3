@@ -18,7 +18,7 @@
 
 
 
-## Date: 05-09-2026
+## Date: 31-08-2026
 
 **Today's Work:**
 - Completed Week 2 String Operations & Performance practice problems.
@@ -35,7 +35,7 @@
 
 
 
-## Date: 05-09-2026
+## Date: 31-08-2026
 
 ### Today's Work
 - Practiced OOP concepts including classes, objects, constructors, encapsulation, reference copying, and static members.
@@ -50,7 +50,7 @@
 
 
 
-## Date: 05-09-2026
+## Date: 31-08-2026
 
 **Today's Work**
 
