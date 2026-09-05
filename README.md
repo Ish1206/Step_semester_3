@@ -31,3 +31,19 @@
 
 **Issues Faced:**
 - None
+
+
+
+
+## Date: 05-09-2026
+
+### Today's Work
+- Practiced OOP concepts including classes, objects, constructors, encapsulation, reference copying, and static members.
+- Implemented 5 practice problems and 5 assignment problems.
+- Created the Week 3 feature branch and pushed all programs to GitHub.
+
+### Next Session Plan
+- Continue with the next set of Java programming concepts and practice problems.
+
+### Issues Faced
+- No major issues faced.
