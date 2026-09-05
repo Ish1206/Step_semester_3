@@ -1,5 +1,5 @@
 # Step_semester_3
-## Date: 30-08-2026
+## Date: 30-08-2026 SESSION 1
 
 **Today's Work:**
 - Completed Week 1 Java practice problems.
@@ -18,7 +18,7 @@
 
 
 
-## Date: 31-08-2026
+## Date: 31-08-2026 SESSION 2
 
 **Today's Work:**
 - Completed Week 2 String Operations & Performance practice problems.
@@ -35,7 +35,7 @@
 
 
 
-## Date: 31-08-2026
+## Date: 31-08-2026  SESSION 3
 
 ### Today's Work
 - Practiced OOP concepts including classes, objects, constructors, encapsulation, reference copying, and static members.
@@ -50,7 +50,7 @@
 
 
 
-## Date: 31-08-2026
+## Date: 31-08-2026  SESSION 4
 
 **Today's Work**
 
