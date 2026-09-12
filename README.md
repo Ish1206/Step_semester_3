@@ -70,3 +70,16 @@ Start Week 5 programming concepts and complete the given practice and assignment
 **Issues Faced**
 
 No major issues faced.
+
+
+
+## Date: 13-09-2026
+**Today's Work:**
+- Completed Week 5 problems on Access Modifiers, Encapsulation and Object Modeling.
+- Completed practice and assignment problems covering access modifiers, protected access, encapsulation, JavaBeans, immutability, with-style updates, static initialization and instanceof-based processing.
+
+**Next Session Plan:**
+- Continue with the next STEP session.
+
+**Issues Faced:**
+- None
